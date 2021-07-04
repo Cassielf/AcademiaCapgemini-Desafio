@@ -1,7 +1,7 @@
 # AcademiaCapgemini-Desafio
 Desafio de programação - Academia Capgemini
 
-Os scripts do desafio estão separados por pacotes, portanto, o pacote calculadora contém o script calculadora e o main, e o pacote cadastro possui o script e o main.
+Os scripts do desafio estão separados por pacotes que estão na pasta src. Portanto, o pacote calculadora contém o script calculadora e o main, e o pacote cadastro possui o script e o main.
 
 A linguagem utilizada foi Java, então para que seja possível a execução é necessário um compilador ou um editor que suporte essa linguagem.
 
